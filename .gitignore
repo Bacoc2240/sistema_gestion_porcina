@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos locales
+.env
+.env.local
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Archivos de registro
+*.log
+
+# Directorios de VS Code
+.vscode/
