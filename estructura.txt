@@ -1,0 +1,52 @@
+Estructura del proyecto: .
+==================================================
+├── ./
+│   ├── .gitignore
+│   ├── README.md
+│   ├── estructura_proyecto.py
+│   ├── manage.py
+│   ├── requirements.txt
+│   └── setup.py
+│   ├── administracion/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   │   ├── migrations/
+│   │   │   └── __init__.py
+│   ├── config/
+│   │   ├── __init__.py
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── docs/
+│   ├── gestion_produccion/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   │   ├── migrations/
+│   │   │   └── __init__.py
+│   ├── gestion_reproductiva/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   │   ├── migrations/
+│   │   │   └── __init__.py
+│   ├── src/
+│   │   └── __init__.py
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── static/
+│   │   ├── templates/
+│   │   ├── utils/
+│   │   ├── views/
+│   ├── tests/

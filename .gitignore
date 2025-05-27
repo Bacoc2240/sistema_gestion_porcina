@@ -16,6 +16,7 @@ build/
 # Archivos locales
 .env
 .env.local
+*.pyc
 
 # Archivos de bases de datos
 *.sqlite3

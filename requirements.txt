@@ -16,4 +16,9 @@ pytest==7.3.1
 psycopg2-binary==2.9.6
 
 # Utilities
-python-dotenv==1.0.0
+python-dotenv==1.0.0# Dependencias para desarrollo y testing
+coverage==7.3.0
+pytest-django==4.5.2
+flake8==6.0.0
+black==23.3.0
+isort==5.12.0
